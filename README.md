@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Owen Jackson
 - 👀 I’m interested in Data Science and Back-end development
 - 🌱 I’m currently attending McMaster Unviserity persuing a degree in Computer Science
-- 📫 Reach out to me at my email or linked-in if you would like to chat about anything coding related!!!
+- 📫 Reach out to me at my email or linked-in if you would like to chat about anything
 - owenjackson4747@gmail.com & https://www.linkedin.com/in/owen-p-jackson/
 
 <!---

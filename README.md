@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently studying **COMPUTER SCIENCE**, **STATISTICS**, and, **MATHEMATICS**
 
-- 🌱 I’m currently learning **DATA ANALYSIS** with **R**
-
 - 📫 How to reach me **owenjackson47@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
